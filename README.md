@@ -7,7 +7,7 @@ I am ***Koichi Sakakibara***, a PhD student in epidemiology at Dornsife School o
 Research Interest
 - Social capital/social cohesion as health assets
 - Social network, social norms, and social support
-- Lifecourse epidemiology
+- Lifecourse approach 
 - Policy environment and implementation as determinants of health
 
 ---
