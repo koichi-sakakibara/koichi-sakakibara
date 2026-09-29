@@ -1,5 +1,5 @@
 ## Intro
-I am **Koichi Sakakibara**, a PhD student in epidemiology at Dornsife School of Public Health in Philadelphia, United States. I am an early-career social epidemiologist/social behavioral scientist.
+I am **Koichi Sakakibara**, a PhD student in epidemiology at Dornsife School of Public Health in Philadelphia, United States. 
 
 Research Interest
 - Social capital/social cohesion as health assets
